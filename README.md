@@ -4,10 +4,10 @@ I'm Oj, an enthusiastic data scientist who currently enjoys helping people learn
 
 Here's a bit about me: 
 
-🔭 I’m currently working on a Spotify music recommender using the Spotify API
-⚡ I'm currently leading my universities Data and Insight community of practice! 
-💬 Ask me about: python, data science, books and music
-🤔 I’m looking to strart contributing to some open source projects 
+- 🔭 I’m currently working on a Spotify music recommender using the Spotify API
+- ⚡ I'm currently leading my universities Data and Insight community of practice! 
+- 💬 Ask me about: python, data science, books and music
+- 🤔 I’m looking to strart contributing to some open source projects 
 
 ## I also have a blog...
 
